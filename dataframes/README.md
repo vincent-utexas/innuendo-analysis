@@ -5,3 +5,4 @@ This folder contains all the dataframes used for training and inference.
 * `train_df`: dataframe used to train the classification models
 * `val_df`: dataframe used for validation when training the classification models
 * `test_df`: dataframe used to evaluate the classification models
+* `explicit_words`: obscenity list to identify explicit content
